@@ -1,5 +1,5 @@
 import os
-from LLRunner.processing.dzsave_h5 import dzsave_h5
+from LLRunner.slide_processing.dzsave_h5 import dzsave_h5
 from tqdm import tqdm
 
 # this is a folder of ndpi files
